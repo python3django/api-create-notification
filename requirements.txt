@@ -1,0 +1,11 @@
+asgiref==3.2.3
+Django==3.0.2
+django-ckeditor==5.9.0
+django-js-asset==1.2.2
+django-object-actions==2.0.0
+djangorestframework==3.11.0
+python-http-client==3.2.4
+pytz==2019.3
+sendgrid==6.1.1
+singlemodeladmin==0.9
+sqlparse==0.3.0
