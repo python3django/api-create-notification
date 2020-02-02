@@ -9,8 +9,8 @@
 
 * создание сообщения в программе httpie:
 
-http POST 127.0.0.1:8000/api/v1/notification/ template="client_registration_email" \
-content:='{"username": "Man5", "email": "django2shop@gmail.com", \
+http POST 127.0.0.1:8000/api/v1/notification/ template="client_registration_email" \\
+content:='{"username": "Man5", "email": "django2shop@gmail.com", \\
 "link": "http://site.com/registration/abcdfegkl/"}'
 
 http POST 127.0.0.1:8000api/v1/notification/ template="client_invoice_email" \
